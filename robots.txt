@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xecivieve.lifecocoon.org/sitemap.xml
